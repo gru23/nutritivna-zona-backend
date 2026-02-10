@@ -1,7 +1,7 @@
 # Nutritivna Zona Backend
 
 Ovo je **Spring backend aplikacija** koja predstavlja serversku stranu sistema *Nutritivna Zona*.  
-Aplikacija je posebno implementirana da podrži funkcionalnosti vezane za rad sa podacima nutricioniste i/ili korisnika sistema. :contentReference[oaicite:1]{index=1}
+Aplikacija je posebno implementirana da podrži funkcionalnosti vezane za rad sa podacima nutricioniste i/ili korisnika sistema.
 
 ---
 
